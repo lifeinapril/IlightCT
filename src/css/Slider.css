@@ -1,0 +1,26 @@
+.carousel-caption{
+    top: 40% !important;
+    background-color: rgba(0, 0, 0, 0.514) !important;
+    box-shadow: #000 0px 20px 800px 0px !important;
+}
+.carousel-caption h1{
+    font-size: 60px !important;
+}
+
+.carousel-caption p{
+    font-size: 22px !important;
+}
+
+.carousel{
+    height: 90vh !important;
+    width: auto !important;
+}
+
+
+.carousel img{
+    height: 90vh !important;
+}
+
+
+.carousel-item{
+}

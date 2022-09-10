@@ -1,0 +1,16 @@
+.btn-orange{
+    background-color: rgb(219, 160, 33) !important;
+    color: aliceblue !important;
+}
+
+.btn-teal{
+    background-color:rgb(59, 131, 107) !important;
+    color:white !important;
+    border:none !important;
+}
+
+.btn-green{
+    background-color:rgba(255, 255, 255, 0.911) !important;
+    color:rgb(7, 99, 76) !important;
+    border:none !important;
+}

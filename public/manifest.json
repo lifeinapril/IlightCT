@@ -1,0 +1,25 @@
+{
+  "short_name": "IlightCT interiors",
+  "name": "Our focus has always been singular: to deliver premium presentation services that include photo realistic 3D visualization of architecture, interior and product animated video and the walk around",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

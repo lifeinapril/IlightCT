@@ -1,0 +1,25 @@
+.box{
+    height: 99vh;
+    color: #fff;
+    box-shadow: inset 0px 500px 400px 0px rgba(0, 0, 0, 0.432) !important;
+    padding-top: 150px !important;
+    background-size: cover !important;
+    background-repeat:no-repeat !important;
+    background-position:center !important;
+}
+
+ .box h1{
+     font-size: 47px !important;
+}
+
+.border-curve{
+    border-radius: 16px !important;
+}
+
+
+.tint{
+    background-color: rgba(0, 0, 0, 0.514) !important;
+    background-blend-mode: soft-light !important;
+    background-size: cover !important;
+    background-position:center !important;
+}

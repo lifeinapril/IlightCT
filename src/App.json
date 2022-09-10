@@ -1,0 +1,155 @@
+{
+    "name":"IlightCT Interiors",
+    "description":"We offer bespoke Interior services ..from Consultancy to sales of interior items such as Furnitures, fittings, finishes, wall murals, beddings, window treatment , carpets, clocks,mirrors, frames and arts works, vases and flowers..and the whats have you... We are your plug and we are ready to give you that satisfying design space that suits your amazing personality",
+    "address":"No 1a, Oluwalogbon house, Obafemi Awolowo Way,  Alausa, Ikeja Lagos.",
+    "contacts":{
+      "phone":"+234 816 919 0606",
+      "email":"Info@ilight.city",
+      "instagram":"ilightct.interiors",
+      "twitter":"ilight.city",
+      "facebook":"ilight.city"
+    },
+    "contents":[
+            {   
+                "image":"",
+                "title":"Our focus has always been singular:",
+                "body":"To deliver premium presentation services that include photo realistic 3D visualization of architecture, interior and product animated video and the walk around. Our excellent customer service inspires us to deliver the highest quality in the shortest time possible."
+            },
+            {   
+                "image":"",
+                "title":"For The Culture",
+                "body":"Since you deserve to have some of our masterpieces in your space, our team is readily available to serve you. These are masterpieces that reflect the beauty of African culture and portrait paintings of"
+            },
+            {
+                "image":"",
+                "title":"Bring life to your space",
+                "body":"Our high end team will carefully translate your dreams into a finely crafted reality. We believe that furnishing your home should be an expression of joy, luxury and comfort. It helps to make your indoor spaces functional, safe and beautiful when you intentionally determine space requirements and select essential decorative items, such as colours, lighting and materials"
+            },
+            {
+                "image":"",
+                "title":"Space for Art",
+                "body":" If you’re a lover of artistic expression, you would know that masterpieces like African Motifs, Embossed portraits, Araism portraits and pencil drawings have a way of exhibiting the richness and beauty of arts."
+            }
+  ],
+  "about":[
+    {   
+        "image":"",
+        "title":"Our focus has always been singular:",
+        "body":"To deliver premium presentation services that include photo realistic 3D visualization of architecture, interior and product animated video and the walk around. Our excellent customer service inspires us to deliver the highest quality in the shortest time possible."
+    },
+    {   
+        "image":"",
+        "title":"For The Culture",
+        "body":"Since you deserve to have some of our masterpieces in your space, our team is readily available to serve you. These are masterpieces that reflect the beauty of African culture and portrait paintings of"
+    },
+    {
+        "image":"",
+        "title":"Bring life to your space",
+        "body":"Our high end team will carefully translate your dreams into a finely crafted reality. We believe that furnishing your home should be an expression of joy, luxury and comfort. It helps to make your indoor spaces functional, safe and beautiful when you intentionally determine space requirements and select essential decorative items, such as colours, lighting and materials"
+    },
+    {
+        "image":"",
+        "title":"Space for Art",
+        "body":" If you’re a lover of artistic expression, you would know that masterpieces like African Motifs, Embossed portraits, Araism portraits and pencil drawings have a way of exhibiting the richness and beauty of arts."
+    }
+],
+    "rendering":[
+            {
+                "image":"",
+                "title":"3D Architecture",
+                "body":"With 3D architectural visualization, developing even the most advanced projects becomes simpler. Here, you can tweak different concepts, analyse various options and make strategic improvements at the early product development stages. You can also tweak colours, lightning and textures to get the highest quality results. We can help transform complex designs and architectural data into amazing 3D architectural rendering projects, thereby enabling you to showcase your idea even better away from the traditional 2D design. With 3D architectural visualization you can:",
+                "list":[
+                        "boost your portfolio with impressive colourful and 3D renderings",
+                        "market and promote your services — such as construction projects — before the actual construction starts, hence making opportunity for investors, and",
+                        "get a 360-degree view of your project with a better understanding of your 3D interior rendering."
+                ]
+            },
+            {
+                "image":"",
+                "title":"3D Interior Rendering",
+                "body":"These project appears virtually in video format. It showcases the animated view of your building and every angle of your space, giving you a good view of every angle"
+            },
+            {
+                "image":"",
+                "title":"3D Floor Plan",
+                "body":"We use scaled drawings to show our clients the layout of their space from an aerial view, illustrating the location of walls, windows, doors and stairs as well as fixed installations such as bathroom fixtures, kitchen cabinetry and appliances which are usually down to scale. The drawing also indicates your room types, room sizes and wall lengths, including the layouts of your furniture and outdoor areas"
+            },
+            {
+                "image":"",
+                "title":"3D Product visualization",
+                "body":"3D interior visualization enables us to design exceptional interiors as realistically as if they are already in place. This works well whether you need a solution for commercial or residential properties. Our design concepts for interior visualization ranges from kitchen, bathroom, living room and large commercial spaces and offices. With 3D interior visualization, we can help you craft interiors that turn your creative ideas into reality."
+            },
+            {
+                "image":"",
+                "title":"3D walk through animation.",
+                "body":"3D imagery is quickly gaining more traction as product design visualization is becoming the boom of product marketing. We provide 3D product rendering services of the highest quality"
+            }
+        ],
+    "works":[
+                {"image":""},
+                {"image":""},
+                {"image":""},
+                {"image":""}
+            ],
+            
+   "services":[
+    {
+        "title":"Architectural visualization"
+    },
+    {
+        "title":"Kitchen interior"
+    },
+    {
+        "title":"Consultancy",
+        "body":"Our consultancy team consists experienced consultants and gives advice with regards to space planning and space actualization. They pay attention to clients’ needs and detailing of design concepts for the purpose of space functionality and space alignment. The team also takes note of clients’ needs and helps clients to be clear on their design needs, thereby blending functionality with aesthetics. Our services include giving clients advice on corporate, commercial and residential design spaces"
+    },
+    {
+        "title":"Interior decorations",
+        "body":"Our high end team will carefully translate your dreams into a finely crafted reality. We believe that furnishing your home should be an expression of joy, luxury and comfort. It helps to make your indoor spaces functional, safe and beautiful when you intentionally determine space requirements and select essential decorative items, such as colours, lighting and materials. Here are the highlights of our interior decoration services:",
+        "list":[
+            " We will discuss the client’s goals and requirements for the project.",
+            "We will consider how best the space can be used and how people will move through the space.",
+            "We will sketch preliminary design plans, including electrical and partition layouts.",
+            "We will specify materials and furnishings, such as lighting, furniture, wall finishes, flooring and plumbing fixtures.",
+            "We will create a timeline for the interior design project and estimate project costs.",
+            "We will place orders for materials and oversee the installation of the design elements.",
+            "We will oversee construction and coordinate with general building contractors to implement the plans and specifications for the project.",
+            "We will visit the site after project is complete, to ensure that the client is satisfied",
+            "We will hand over the finished work to the client."
+        ]
+    },
+    {
+        "title":"Home/hotel Furniture",
+        "body":"We offer furniture of different types for both indoor/outdoor and residential/commercial spaces. We engage wide range of quality materials and colours in making our furniture sets. We deliver high quality furniture with competitive price including the following:",
+        "list":[
+            "living room sofas",
+            "dining tables ",
+            "credenzas",
+            "consoles",
+            "doors",
+            "beds",
+            "wardrobes/closets and",
+            "kitchen cabinets and",
+            "workplace furniture"
+        ]
+    }
+    ],
+    "clients":[
+        {
+            "name":"Abraham Adetugboboh",
+            "comment":"i think we should always use ilightCT as reffrence to others",
+            "from":"Deen Developers"
+        },
+
+        {
+            "name":"Gideon Abel",
+            "comment":"i highly recommend it",
+            "from":"Munchco Veture"
+        },
+        {
+            "name":"Stella Omoakin",
+            "comment":"ever since i have employed ilightct for my office decor, it has been top notch",
+            "from":"Stella omoakin"
+        }
+    ]
+}

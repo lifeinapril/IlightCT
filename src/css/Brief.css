@@ -1,0 +1,35 @@
+@import url("./Animation.css");
+
+.brief{
+    min-height: 350px !important;
+    padding-top: 100px !important;
+    padding-bottom: 100px !important;
+	transition: display 2s !important;
+    animation-duration: 3s;
+    animation-delay: 0s;
+    animation-name: slidein;
+}
+
+.brief-img{
+    min-height: 360px !important;
+    background-size: contain !important;
+    background-repeat: no-repeat !important;
+    width: 100% !important;
+}
+
+.light{
+    color: #fff !important;
+}
+
+.dark{
+    color: rgb(19, 17, 17) !important;
+}
+
+.padding{
+    padding: 45px !important;
+}
+
+.text-teal{
+    color: teal !important;
+}
+

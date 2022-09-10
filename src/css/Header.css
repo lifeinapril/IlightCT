@@ -1,0 +1,100 @@
+.headbar {
+    padding: 10px !important;
+    background: rgb(0, 0, 0) !important;
+ }
+ .bg-dark{
+     background: rgba(0, 0, 0, 0.788) !important;
+ }
+
+ .bg-dark a{
+    color:  #fff !important;
+    text-decoration: none !important;
+}
+.bg-light a{
+    color:  rgb(8, 2, 2) !important;
+    text-decoration: none !important;
+}
+ .bg-naked{
+     background: rgba(0, 0, 0, 0.438) !important;
+ }
+ .navbar-dark{
+    background: rgba(14, 6, 0, 0.863) !important;
+ }
+ .btn-dark{
+     background-color: rgb(27, 54, 54) !important;
+ }
+
+ .dropitem{
+    padding: 20px !important;
+ }
+
+
+ .bg-darker{
+    background: rgb(0, 0, 0) !important;
+}
+
+.bg-darker a{
+   color:  #fff !important;
+   text-decoration: none !important;
+}
+
+
+
+
+.navbar-toggler,.navbar-toggler:hover {
+    border: none !important;
+}
+
+
+
+
+
+
+.navbar-toggler span {
+    color: #25a805 !important;
+    transition: all 0.35s ease-out;
+}
+
+
+
+/**
+ * Animate collapse into X.
+ */
+
+/* top line rotates 45 degrees clockwise and moves up and in a bit to close the center of the X in the center of the button */
+.navbar-toggler:not(.collapsed) span:nth-child(1) {
+    transform: translate(15%, -33%) rotate(45deg);
+}
+/* center line goes transparent */
+.navbar-toggler:not(.collapsed) span:nth-child(2) {
+    opacity: 0;
+}
+/* bottom line rotates 45 degrees counter clockwise, in, and down a bit to close the center of the X in the center of the button  */
+.navbar-toggler:not(.collapsed) span:nth-child(3) {
+    transform: translate(15%, 33%) rotate(-45deg) ;
+}
+
+
+/**
+ * Animate collapse open into hamburger menu
+ */
+
+/* top line moves back to initial position and rotates back to 0 degrees */
+.navbar-toggler span:nth-child(1) {
+    transform: translate(0%, 0%) rotate(0deg) ;
+}
+/* middle line goes back to regular color and opacity */
+.navbar-toggler span:nth-child(2) {
+    opacity: 0;
+}
+/* bottom line goes back to initial position and rotates back to 0 degrees */
+.navbar-toggler span:nth-child(3) {
+    transform: translate(0%, 0%) rotate(0deg) ;
+}
+
+
+
+
+
+
+
