@@ -1,7 +1,7 @@
 FROM node:latest
-WORKDIR /web
+WORKDIR /usr/src/web
 COPY ./package.json .
-RUN npm install --force
+RUN npm install
 COPY . .
 EXPOSE 3000
 CMD [ "npm", "run", "start" ]
